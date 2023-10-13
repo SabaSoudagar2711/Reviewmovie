@@ -1,0 +1,170 @@
+[
+  {
+    "movieId": "MOV01",
+    "title": "GUARDIANS OF THE GALAXY VOL. 3",
+    "language": "English",
+    "yearReleased": "2023",
+    "story": "Peter Quill, still recovering from Gamora's death, must put together his squad to protect the universe and safeguard one of their own. If the mission is not fully effective, it may mark the end of the Guardians as we know them  ",
+    "trailerLink": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg ",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/9yMDDDIrVCBG95agEGA6V4zP0j6.jpg",
+      "https://www.themoviedb.org/t/p/original/9yMDDDIrVCBG95agEGA6V4zP0j6.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV02 ",
+    "title": " Prey",
+    "language": "English",
+    "yearReleased": "2022 ",
+    "story": " Naru, a skilled warrior of the Comanche Nation, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth. ",
+    "trailerLink": "https://www.youtube.com/watch?v=fHPaRGk2E2k",
+    "genres": [
+      "Animation"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/rvsiHlXOWlaizQh7HsL6ZJwsbMj.jpg",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/7RyL4LVB12umzxMHjiiBcv7vucn.jpg",
+      "https://www.themoviedb.org/t/p/original/hYZhHMhQjITs9mziAH8gHsUA8Eb.jpg",
+      "https://www.themoviedb.org/t/p/original/7FJTHnEOPzX2opdzVmQQT6tksSO.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV03 ",
+    "title": " King Kong ",
+    "language": "English",
+    "yearReleased": "2005 ",
+    "story": " Peter Jackson's expansive remake of the 1933 classic follows director Carl Denham (Jack Black) and his crew on a journey from New York City to the ominous Skull Island to film a new movie. Accompanying him are playwright Jack Driscoll (Adrien Brody) and actress Ann Darrow (Naomi Watts), who is whisked away by the monstrous ape, Kong, after they reach the island. The crew encounters dinosaurs and other creatures as they race to rescue Ann, while the actress forms a bond with her simian captor. ",
+    "trailerLink": "https://www.youtube.com/watch?v=1TSidCNA7mQ",
+    "genres": [
+      "fiction"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/3C0UppKOz7EFqmdd7urR1raeIeI.jpg",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/4fdwVyY6Vb4zc7lZ8OIGGPyBy7n.jpg",
+      "https://www.themoviedb.org/t/p/original/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV04 ",
+    "title": "Invasion Planet Earth ",
+    "language": "English",
+    "yearReleased": "2019",
+    "story": " After the death of his young daughter, Thomas Dunn is a man who has lost his faith. On the day he finds out his wife is pregnant again, aliens invade the Earth. ",
+    "trailerLink": "https://www.youtube.com/watch?v=okNzOq0R8yE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "movieFlyer": " https://www.themoviedb.org/t/p/original/7OEXlwfj0t4rGuI5Txccm7bYMME.jpg",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/19zBDEbEBjpilAqbY5r77zs7mta.jpg",
+      "https://www.themoviedb.org/t/p/original/rfjM1IbZ9ByknAVFxzugCptbyUk.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV05 ",
+    "title": " Ant-Man and the Wasp: Quantumania (UA)",
+    "language": "English",
+    "yearReleased": "2022",
+    "story": "Ant-Man and the Wasp are pushed beyond their limits, discovering the Quantum.  ",
+    "trailerLink": "https://www.youtube.com/watch?v=5WfTEZJnv_8",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/5JcuLWpKf85q5oy1NbzyFAGkhqx.jpg ",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+      "https://www.themoviedb.org/t/p/original/khtmgCrvgOHvjScXmx5Ou8QPbDN.jpg",
+      "https://www.themoviedb.org/t/p/original/gslT8t964rYXyqRcqrxFh77ikyb.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV06 ",
+    "title": "Black Adam ",
+    "language": "English",
+    "yearReleased": "2022 ",
+    "story": " Black Adam is freed after almost 5000 years and is granted the divine powers of the Egyptian Gods after which he decides that he has his own idea of justice that the world should experience. ",
+    "trailerLink": "https://www.youtube.com/watch?v=X0tOpBuYasI ",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg ",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/3kJzksNGCNJM81v1g0YFjZPwOl3.jpg",
+      "https://www.themoviedb.org/t/p/original/d6MhreFdMHONqX3iZlJGCF8UkIt.jpg",
+      "https://www.themoviedb.org/t/p/original/9inNotReApz0n50WvWbrt0n1cbL.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV07 ",
+    "title": " Blue Beetle",
+    "language": "English",
+    "yearReleased": " 2023",
+    "story": " Jaime Reyes suddenly finds himself in possession of an ancient relic of alien biotechnology called the Scarab. When the Scarab chooses Jaime to be its symbiotic host, he's bestowed with an incredible suit of armor that's capable of extraordinary and unpredictable powers, forever changing his destiny as he becomes the superhero Blue Beetle. ",
+    "trailerLink": "https://www.youtube.com/watch?v=Eguyu5glQmU ",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/rBy9lo6qOIId6UuDS720SUHK6xg.jpg",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+      "https://www.themoviedb.org/t/p/original/uRk2gZilBhcIMF4Ki8lELmPZspi.jpg",
+      "https://www.themoviedb.org/t/p/original/wqlXU5QdiQhZwvhG5YVq8PFZhWE.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  },
+  {
+    "movieId": " MOV08 ",
+    "title": "Brian and Charles ",
+    "language": "English",
+    "yearReleased": "2022",
+    "story": " An endearing outlier, Brian lives alone in a Welsh valley, inventing oddball contraptions that seldom work. After finding a discarded mannequin head, Brian gets an idea. Directed by Jim Archer. ",
+    "trailerLink": " https://www.youtube.com/watch?v=WnXr4djsq9Q",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "movieFlyer": "https://www.themoviedb.org/t/p/original/bo8jikEHykPXgi1b0esYao0zAzt.jpg ",
+    "backdrops": [
+      "https://www.themoviedb.org/t/p/original/2K6khj7lbAmzXwZWNRPMezYLsUy.jpg",
+      "https://www.themoviedb.org/t/p/original/8Kbr2lV4XE2zqI564u0xlMLpx8r.jpg"
+    ],
+    "users": [],
+    "reviewIds": []
+  }
+]
+
+
+
+
